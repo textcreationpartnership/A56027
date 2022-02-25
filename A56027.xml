@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals for a more beneficial and equal establishment of a regulated company to carry on the trade to the East Indies</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56027</idno>
+            <idno type="STC">Wing P3723</idno>
+            <idno type="STC">ESTC R222506</idno>
+            <idno type="EEBO-CITATION">99833669</idno>
+            <idno type="PROQUEST">99833669</idno>
+            <idno type="VID">38147</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56027)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38147)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2176:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals for a more beneficial and equal establishment of a regulated company to carry on the trade to the East Indies</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1697?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>East India Company. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:38147:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <head>PROPOSALS FOR A more Beneficial and Equal Eſtabliſhment of a Regulated Company to carry on the Trade to the <hi>Eaſt-Indies.</hi>
+            </head>
+            <p>THat a Company be Eſtabliſhed by the Name of <hi>The Ad<g ref="char:EOLhyphen"/>ventures to</hi> Eaſt-India, who ſhall have Power every Year to chooſe from among themſelves a <hi>Governour, Deputy-Gover<g ref="char:EOLhyphen"/>nour,</hi> and <hi>Twenty Four Aſſiſtants,</hi> together with a <hi>Treaſurer,</hi> &amp;c. That whoſoever pleaſeth may at all times become a Member or Free-man of the ſaid Company, paying for his Admittance <hi>5 l.</hi> (more or leſs) as ſhall be thought fit.</p>
+            <p>That every Free-man of the ſaid Company ſhall have liberty to Trade to any part of the <hi>Eaſt-Indies,</hi> when, and how, and for as much as he pleaſeth; paying to the Treaſurer of the ſaid Company Four <hi>per Cent.</hi> on all Goods and Merchandizes Imported from <hi>India,</hi> which ſhall be Eſteemed or Termed <hi>a ſingle Duty.</hi>
+            </p>
+            <p>That the Money Paid by every Member of the ſaid Company for his Freedom, and the Four <hi>per Cent.</hi> paid by all on the Goods they Import, ſhall be the Stock of the ſaid Company.</p>
+            <p>That the ſaid Stock of the Company ſhall be Employed and Diſ<g ref="char:EOLhyphen"/>poſed by the <hi>Court of Aſſiſtants</hi> for the Payment of the Preſent com<g ref="char:EOLhyphen"/>pany for their Forts, <hi>&amp;c.</hi> And for Maintaining an Embaſſadour at the Court of the <hi>Great Mogul,</hi> and Conſuls in the Principal Places of Trade, and all other <hi>Publick Charges</hi> that ſhall be found Neceſſary for the better carrying on the Trade.</p>
+            <p>That over and above the foreſaid ſingle Duty of Four <hi>per Cent.</hi> on all Goods imported, the Governour, Deputy, and Court of Aſſiſtants, ſhall have Power to raiſe half Duty more, or Double the Duty, according as the Occaſions of the Company may from time to time require.</p>
+            <p>The Advantages of a Company thus Regulated, above that of a Joynt-Stock, <hi>Viz.</hi>
+            </p>
+            <list>
+               <item>I. The Miſchief as well as the Wrong of a Monopoly will be pre<g ref="char:EOLhyphen"/>vented, and every One will have Freedom to Trade as he ſees fit, whereby the Trade will be extended to many Places yet unfrequent<g ref="char:EOLhyphen"/>ed; for it will be a great Incitement to Induſtry and Diligence, when every Man may reap the Fruits of his own Labours.</item>
+               <item>II. Greater Quantities of our Manufactures will be Exported, and the makers of them not neceſſitated to Sell them to Loſs, as they often are, when there is but one Buyer; and contrarily Commodities of the Growth and Manufacture of <hi>India</hi> will be imported more plentifully, and ſold cheaper.</item>
+               <item>III. By ſuch an Eſtabliſhment many of the younger Sons of Gentle<g ref="char:EOLhyphen"/>men will have Opportunity of credible and advantagious Employments, both at home and abroad.</item>
+               <item>IV. The Revenues fo the Crown, and our Navigation will be hereby very much encreaſed.</item>
+               <item>V. It will moſt effectually prevent the Miſchiefs that may ariſe to the Trade of this Nation from the late Act of Parliament in <hi>Scotland,</hi> for Erecting an <hi>Eaſt-India</hi> Company.</item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>
